@@ -3,8 +3,8 @@ config/database.php
 app/tmp/*
 app/config/database.php
 !empty
-
 /app/config
 /app/tmp
 /plugins
 /vendors
+sftp-config.json
